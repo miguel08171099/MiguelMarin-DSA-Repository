@@ -24,7 +24,7 @@ public class GestorClases {
 
         double r = GestorClases.suma(v);
 
-        System.out.println(r);
+        System.out.println("La suma de todas las areas es: " + r);
         System.out.println(Arrays.asList(v));
         GestorClases.sort(v);
         System.out.println(Arrays.asList(v));
